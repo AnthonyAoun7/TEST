@@ -1,0 +1,9 @@
+To grant permission to execute : ./compiler.sh
+we have to enter the following command : chmod u+x compiler.sh
+
+
+https://www.youtube.com/watch?v=yq1fAtpUW1E
+https://www.sfml-dev.org/documentation/2.5.1/classsf_1_1SocketSelector.php
+
+Ce qui est attendu c'est que si le serveur parcours continument tous les clients et s'il recoit un input d'un client, 
+il l'affiche. Pour chaque client il renvoie la matrice même si ce client n'a fait aucun input.
